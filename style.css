@@ -46,8 +46,19 @@
 .escola-titulo {
     font-size: 35px;
     padding: 40px 0;
+    text-align: center;
 }
 
 .estudante-imagem{
-    width: 15%;
+    width: 11%;
 }
+
+.estudante-icone{
+    width: 30px;
+}
+
+.estudante-div{
+    text-align: center;
+
+}
+
